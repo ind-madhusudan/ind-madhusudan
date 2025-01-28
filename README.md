@@ -1,3 +1,4 @@
+![External Image](https://github.com/ind-madhusudan/ind-madhusudan/blob/main/LinkedIn_Banner.png)
 
 # 💫 About Me:
 Madhusudan - Data Analytics Enthusiast💡:<br><br>I am a passionate and dedicated data analytics enthusiast with a strong foundation in SQL, Power BI, Python, Azure, Excel, and GitHub. My journey into the world of data began with a curiosity to unravel insights from raw data and has since evolved into a full-fledged skill set honed through continuous learning and hands-on experience.
