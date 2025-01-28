@@ -35,7 +35,7 @@ I specialize in turning raw data into actionable insights that drive business de
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ind-madhusudan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ind-madhusudan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ind-madhusudan&theme=dark&hide_border=false)
 
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ind-madhusudan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
