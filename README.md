@@ -39,8 +39,7 @@ I specialize in turning raw data into actionable insights that drive business de
   <img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ind-madhusudan&theme=dark&hide_border=false" />
 </div>
 
-# 📈 GitHub Activity:
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ind-madhusudan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ind-madhusudan)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=ind-madhusudan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true)](https://github.com/ind-madhusudan)
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ind-madhusudan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 🏆 GitHub Trophies
