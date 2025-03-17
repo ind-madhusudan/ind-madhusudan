@@ -1,6 +1,6 @@
 ![External Image](https://github.com/ind-madhusudan/ind-madhusudan/blob/main/mern_design.png)
 
-<h1>Hi 👋, I'm Madhusudan – A Data Analyst 📊</h1>
+<h1>Hi 👋, I'm Madhusudan – A MERN Stack Developer 📊</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Find-madhusudan%2Find-madhusudan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhusudan-mahato/)
@@ -11,23 +11,25 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rustic_madhusudan/)](https://www.instagram.com/rustic_madhusudan)
 -->
 
-I specialize in turning raw data into actionable insights that drive business decisions. My expertise spans across data analysis, visualization, and statistical reporting, with a focus on delivering data-driven solutions for optimizing performance and growth.
+🚀 Passionate about building scalable and efficient web applications using **MongoDB, Express.js, React, and Node.js**. Skilled in **frontend and backend development**, with hands-on experience in creating dynamic and user-friendly applications.  
 
-### What I Do
-✨ Analyze and visualize data to uncover key trends and insights.  
-✨ Transform raw data into actionable reports for strategic decision-making.  
-✨ Help businesses optimize performance by providing clear and concise data-driven recommendations.
+## 🔥 What I Do  
+✨ Develop full-stack web applications using the **MERN stack**.  
+✨ Create responsive and interactive UIs with **React.js & Tailwind CSS**.  
+✨ Build secure and efficient backend APIs with **Node.js & Express.js**.  
 
-### Core Strengths
-✨ **Data Analysis & Visualization:** Proficient in extracting insights and visualizing them using Power BI and Excel.  
-✨ **SQL & Python (NumPy, Pandas):** Skilled in data manipulation, cleaning, and processing.  
-✨ **Statistical Analysis & Reporting:** Experienced in statistical analysis and presenting findings clearly.
+## 💡 Core Strengths  
+✨ **Frontend Development:** React.js, Tailwind CSS, JavaScript  
+✨ **Backend Development:** Node.js, Express.js  
+✨ **Database Management:** MongoDB, SQL  
+✨ **Version Control & Tools:** GitHub, VS Code  
 
-### Passion
-✨ Driven by a love for solving complex problems through data, uncovering trends that help businesses grow and optimize their processes.
+## 🎯 Passion  
+✨ Building high-quality web applications that provide seamless user experiences.  
+✨ Continuously learning and improving my skills in modern web technologies.  
 
-### Goal
-✨ To continue leveraging my data skills to deliver impactful insights that support decision-making and drive business success.
+## 🚀 Goal  
+✨ To contribute to real-world projects and develop scalable web applications that make an impact.  
 
 ## 📊 Skills & Technologies
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
