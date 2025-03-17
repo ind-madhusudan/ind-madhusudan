@@ -1,4 +1,4 @@
-![External Image](https://github.com/ind-madhusudan/ind-madhusudan/blob/main/LinkedIn_Banner.png)
+![External Image](https://github.com/ind-madhusudan/ind-madhusudan/blob/main/mern_design.png)
 
 <h1>Hi 👋, I'm Madhusudan – A Data Analyst 📊</h1>
 
